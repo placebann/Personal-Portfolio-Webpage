@@ -1,2 +1,2 @@
 # Personal-Portfolio-Webpage
-This paje is my second project of freecodecamp.com
+This page is my second project of freecodecamp.com
